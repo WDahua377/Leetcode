@@ -1,5 +1,9 @@
-// This solution is based on Boyer-Moore Voting Algorithm
-// Reference: https://ithelp.ithome.com.tw/articles/10213285
+/* This solution is based on Boyer-Moore Voting Algorithm
+Reference: https://ithelp.ithome.com.tw/articles/10213285
+*/
+/* 該解法基於摩爾投票算法
+參考網址：https://ithelp.ithome.com.tw/articles/10213285
+*/
 
 int majorityElement(int* nums, int numsSize) {
 

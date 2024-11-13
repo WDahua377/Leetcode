@@ -25,7 +25,7 @@ int removeDuplicates(int* nums, int numsSize) {
     return i - nums + 1;
 }
 
-void swap(int *a, int *b){
+void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
     *b = temp;

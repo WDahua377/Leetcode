@@ -1,5 +1,9 @@
-// This solution follows the pseudocode outlined in the instructional video on YouTube by Algo Engine.
-// Reference URL: https://www.youtube.com/watch?v=ioFPBdChabY&ab_channel=AlgoEngine
+/* This solution follows the pseudocode outlined in the instructional video on YouTube by Algo Engine.
+Reference URL: https://www.youtube.com/watch?v=ioFPBdChabY&ab_channel=AlgoEngine
+*/
+/* 該解決方案遵循 Algo Engine 的 YouTube 教學影片中展示的 pseudocode
+ 影片網址：https://www.youtube.com/watch?v=ioFPBdChabY&ab_channel=AlgoEngine
+*/
 
 int max(int a, int b);
 

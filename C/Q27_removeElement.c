@@ -1,6 +1,6 @@
 void swap(int* a, int* b);
 
-int removeElement(int* nums, int numsSize, int val){
+int removeElement(int* nums, int numsSize, int val) {
     int k = 0;
     int *front = nums, *tail = nums + numsSize - 1;
 
@@ -33,13 +33,8 @@ int removeElement(int* nums, int numsSize, int val){
     return k;
 }
 
-void swap(int *a, int *b){
+void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
     *b = temp;
 }
-
-// java?
-// assert k == expectedNums.length;  :ensure if k is equal to expectedNums' length
-// sort(nums, 0, k);  :sort the first k elements in order, because the integer array we returned is not sorted
-// for loop  :compare whether all elements in integer array are equal to elements in expectedNums

@@ -4,17 +4,20 @@ int removeDuplicates(int* nums, int numsSize) {
     int *i = nums, *j = nums;
 
     // if nums is empty
+    // 若輸入為空數列
     if (numsSize == 0)
         return 0;
     
     while (j - nums != numsSize) {
 
         // look for the next non-duplicate number
+        // 尋找下一個非重複的數字
         if (*i == *j) {
             j++;
         }
 
         // swap the next non-duplicate number to the next element
+        // 將下一個非重複的數字與下一個元素交換
         else {
             i++;
             swap(i, j);

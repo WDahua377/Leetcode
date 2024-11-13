@@ -30,4 +30,4 @@ int compare(const void *a, const void *b) {
 // j                          ^ nums1 + n + m
 
 // nums2 = [2, 5, 6]
-// i        ^
+// i        ^ 

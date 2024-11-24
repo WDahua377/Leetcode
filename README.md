@@ -11,4 +11,5 @@
 |  121 |<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock?envType=study-plan-v2&envId=top-interview-150">Best Time to Buy and Sell Stock</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q121_maxProfit.c">C</a>| Easy |
 |  125 |<a href="https://leetcode.com/problems/valid-palindrome?envType=study-plan-v2&envId=top-interview-150">Valid Palindrome</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q125_isPalindrome.c">C</a>| Easy |
 |  169 |<a href="https://leetcode.com/problems/majority-element?envType=study-plan-v2&envId=top-interview-150">Majority Element</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q169_majorityElement.c">C</a>| Easy |
+|  383 |<a href="https://leetcode.com/problems/ransom-note?envType=study-plan-v2&envId=top-interview-150">Ransom Note</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q383_canConstruct.c">C</a>| Easy |
 |  392 |<a href="https://leetcode.com/problems/is-subsequence?envType=study-plan-v2&envId=top-interview-150">Is Subsequence</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q392_isSubsequence.c">C</a>| Easy |

@@ -1,4 +1,4 @@
-# C solutions for Leetcode problems
+# C/C++ solutions for Leetcode problems
 
 |  #   | Title | Solution | Difficulty |
 | :-:  | :---: |:--------:|:----------:|

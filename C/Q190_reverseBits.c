@@ -1,4 +1,5 @@
-// `(n >> (31 - i) & 1)` gets whether the (31-i)th bit is 1 or 0, and `<< i` multiplies 1/0 by the power of 2 of that bit, then adds all the results
+// `(n >> (31 - i) & 1)` gets whether the (31-i)th bit is 1 or 0, and `<< i` multiplies 1/0 by the power of 2 of that bit
+// then adds all the results
 // 從`(n >> (31 - i) & 1)`得到第31-i位是1還是0，接著將得到的結果乘以該位的2的冪，將所有結果相加
 
 uint32_t reverseBits(uint32_t n) {

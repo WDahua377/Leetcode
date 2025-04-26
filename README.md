@@ -15,3 +15,4 @@
 |  190 |<a href="https://leetcode.com/problems/reverse-bits/?envType=study-plan-v2&envId=top-interview-150">Reverse Bits</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q190_reverseBits.c">C</a>| Easy |
 |  383 |<a href="https://leetcode.com/problems/ransom-note?envType=study-plan-v2&envId=top-interview-150">Ransom Note</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q383_canConstruct.c">C</a>| Easy |
 |  392 |<a href="https://leetcode.com/problems/is-subsequence?envType=study-plan-v2&envId=top-interview-150">Is Subsequence</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q392_isSubsequence.c">C</a>| Easy |
+|  191 |<a href="https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150">Number of 1 Bits</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q191_hammingWeight.c">C</a>| Easy |

@@ -1,5 +1,9 @@
-// This solution was originally provided by user 'mentez' on LeetCode's solution section.
-// 該解法為該題中解答欄位的 mentez 用戶所提供的解答。
+/* This solution was originally provided by user 'mentez' on LeetCode's solution section.
+Reference URL: https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/4761245/beats-100-users-super-fast-simple-approach-easy-to-understand-beginner-friendly-o-log-n/?envType=study-plan-v2&envId=top-interview-150
+*/
+/* 該解法為該題中解答欄位的 mentez 用戶所提供的解答。
+解法網址：https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/4761245/beats-100-users-super-fast-simple-approach-easy-to-understand-beginner-friendly-o-log-n/?envType=study-plan-v2&envId=top-interview-150
+*/
 
 /* For AND, as long as a bit has a 0, that bit will eventually be 0, so any bit that changes in this range will become 0.
 The bits that would change are the lower order bits.

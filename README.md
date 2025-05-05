@@ -1,4 +1,8 @@
 # C/C++ solutions for Leetcode problems
+The solution includes ideas and approaches learned from various contributors online. Not all of these are original solutions from scratch.
+All references and attributions to the original authors can be found in the comments within the corresponding C file.
+
+參考很多他人的解法，並非全部都是原創，所有解法的 reference 都能在對應的 C 檔案中找到來源。
 
 |  #   | Title | Solution | Difficulty | Topic |
 | :-:  | :---: |:--------:|:----------:|:-----:|
@@ -16,5 +20,6 @@
 |  169 |<a href="https://leetcode.com/problems/majority-element?envType=study-plan-v2&envId=top-interview-150">Majority Element</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q169_majorityElement.c">C</a>| Easy |Array, Hash Table, Divide and Conquer, Sorting, Counting|
 |  190 |<a href="https://leetcode.com/problems/reverse-bits/?envType=study-plan-v2&envId=top-interview-150">Reverse Bits</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q190_reverseBits.c">C</a>| Easy |Divide and Conquer, Bit Manipulation|
 |  191 |<a href="https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150">Number of 1 Bits</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q191_hammingWeight.c">C</a>| Easy |Divide and Conquer, Bit Manipulation|
+|  201 |<a href="https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=study-plan-v2&envId=top-interview-150">Bitwise AND of Numbers Range</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q201_rangeBitwiseAnd.c">C</a>| Midium |Bit Manipulation|
 |  383 |<a href="https://leetcode.com/problems/ransom-note?envType=study-plan-v2&envId=top-interview-150">Ransom Note</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q383_canConstruct.c">C</a>| Easy |Hash Table, String, Counting|
 |  392 |<a href="https://leetcode.com/problems/is-subsequence?envType=study-plan-v2&envId=top-interview-150">Is Subsequence</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q392_isSubsequence.c">C</a>| Easy |Two Pointers, String, Dynamic Programming|

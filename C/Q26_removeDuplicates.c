@@ -25,6 +25,8 @@ int removeDuplicates(int* nums, int numsSize) {
         }
     }
 
+    // return the number of unique elements in nums
+    // 回傳非重複數列的長度
     return i - nums + 1;
 }
 

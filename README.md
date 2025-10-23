@@ -6,6 +6,7 @@ All references and attributions to the original authors can be found in the comm
 
 |  #   | Title | Solution | Difficulty | Topic |
 | :-:  | :---: |:--------:|:----------:|:-----:|
+|   1  |<a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q1_twoSum.c">C</a>| Easy |Array, Hash Table|
 |  13  |<a href="https://leetcode.com/problems/roman-to-integer?envType=study-plan-v2&envId=top-interview-150">Roman to Integer</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q13_romanToInt.c">C</a>| Easy |Hash Table, Math, String|
 |  26  |<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array?envType=study-plan-v2&envId=top-interview-150">Remove Duplicates from Sorted Array</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q26_removeDuplicates.c">C</a>| Easy |Array, Two Pointers|
 |  27  |<a href="https://leetcode.com/problems/remove-element?envType=study-plan-v2&envId=top-interview-150">Remove Element</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q27_removeElement.c">C</a>| Easy |Array, Two Pointers|

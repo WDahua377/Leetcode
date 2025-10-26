@@ -5,8 +5,10 @@ This is merely a personal practice record and not necessarily the optimal soluti
 
 參考很多他人的解法，並非全部都是原創，所有解法的 reference 都能在對應的 C 檔案中找到來源。只是個人練習紀錄，非最佳解。
 
-|  #   | Title | Solution | Difficulty | Topics |
-| :-:  | :---: |:--------:|:----------:|:-----:|
+<!-- |  #   | Title | Solution | Difficulty | Topics | -->
+<!-- | :-:  | :---: |:--------:|:----------:|:-----:| -->
+|  #   | Title | Solution | Difficulty |
+| :-:  | :---: |:--------:|:----------:|
 |   1  |<a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q1_twoSum.c">C</a>| Easy |Array, Hash Table|
 |  13  |<a href="https://leetcode.com/problems/roman-to-integer?envType=study-plan-v2&envId=top-interview-150">Roman to Integer</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q13_romanToInt.c">C</a>| Easy |Hash Table, Math, String|
 |  14  |<a href="https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150">Longest Common Prefix</a>|<a href="https://github.com/WDahua377/Leetcode/blob/main/C/Q14_longestCommonPrefix.c">C</a>| Easy |Array String Trie|
